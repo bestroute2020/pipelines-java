@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jwang0702/DevOpsPOV/_apis/build/status/bestroute2020.pipelines-java?branchName=main)](https://dev.azure.com/jwang0702/DevOpsPOV/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
